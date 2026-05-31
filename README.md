@@ -1,5 +1,3 @@
-Re# wedding
-Wedding of Denis & Lorena
 <!DOCTYPE html>
 <html lang="de">
 <head>
